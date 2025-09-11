@@ -1,0 +1,24 @@
+Ignore downloaded videos
+
+*.mp4
+*.mkv
+*.webm
+*.mp3
+*.m4a
+Ignore virtual environment
+
+venv/
+Ignore Jupyter Notebook specific files
+
+.ipynb_checkpoints/
+pycache/
+Ignore IDE files (e.g., VS Code)
+
+.vscode/
+Ignore logs
+
+*.log
+Ignore OS-specific temporary files
+
+.DS_Store
+Thumbs.db
