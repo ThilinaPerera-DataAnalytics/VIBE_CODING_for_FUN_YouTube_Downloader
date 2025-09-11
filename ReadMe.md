@@ -23,7 +23,7 @@ Project_YouTube_Downloader_Vibe_Coding/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Project_YouTube_Downloader_Vibe_Coding.git
+git clone https://github.com/ThilinaPerera-DataAnalytics/Vide_Coding_for_fun_YouTube_Downloader.git
 cd Project_YouTube_Downloader_Vibe_Coding
 ```
 
