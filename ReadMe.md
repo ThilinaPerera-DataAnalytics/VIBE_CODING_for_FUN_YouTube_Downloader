@@ -24,11 +24,8 @@ cd Project_YouTube_Downloader_Vibe_Coding
 Create and activate a virtual environment:
 
 ```bash
-python -m venv venv
-# macOS / Linux
-source venv/bin/activate
-# Windows
-venv\Scripts\activate
+conda create -n vir_env python 3.11
+conda activate vir_env
 ```
 
 Install dependencies:
