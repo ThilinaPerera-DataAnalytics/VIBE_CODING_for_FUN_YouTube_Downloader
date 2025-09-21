@@ -9,10 +9,7 @@ Project_YouTube_Downloader_Vibe_Coding/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-├── youtdwn.ipynb        # Jupyter Notebook interface
-└── src/
-    ├── __init__.py
-    └── downloader.py    # Core download logic (modular, reusable)
+└── youtdwn.ipynb        # Jupyter Notebook interface
 ```
 
 ## ⚙️ Setup & Installation
