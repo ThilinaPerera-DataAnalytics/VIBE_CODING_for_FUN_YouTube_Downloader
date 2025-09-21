@@ -1,9 +1,6 @@
 # 🎥 Project: YouTube Downloader
 
-A Python-based tool to **download YouTube videos or audio**.
-Originally developed as a *“vibe coding”* experiment, this project demonstrates **modular design**, **workflow automation**, and **practical use of third-party libraries** — all skills directly applicable to data science and software development.
-
-
+A Python-based tool to **download YouTube Audio, Video (w/o audio) or Video (w/ audio)**. Originally developed as a `vibe coding` experiment. This project demonstrates **modular design**, **workflow automation**, and **practical use of third-party libraries**.
 
 ## 📂 Project Structure
 
